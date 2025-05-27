@@ -78,3 +78,10 @@ console.log(twitterHandle)
  console.log(3%2)
  console.log(3**2)
  
+ let counter = 0;
+ console.log(counter)
+ counter ++;
+ counter ++;
+ counter ++;
+ counter ++;
+ console.log(counter)
