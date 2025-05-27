@@ -137,7 +137,11 @@ notDefined = null;
 console.log(notDefined);
 
 //1. create variable name (isJsProgrammingLanguage) g store true as a value
-//2. create variable name (isJsHard) & store false as a value 
-//3. create variable name (favNumb) store your favorite number inside 
-//4. Now add favNumb with the value of undefined 
+//2. create variable name (isJsHard) & store false as a value
+//3. create variable name (favNumb) store your favorite number inside
+//4. Now add favNumb with the value of undefined
 
+let isJsProgrammingLanguage = true ;
+let isJsHard = false;
+let favNumb = 4 ;
+console.log(favNumb + undefined)
