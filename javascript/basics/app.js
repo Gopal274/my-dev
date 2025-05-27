@@ -212,7 +212,9 @@ let fullName = firstName.concat(secondName);
 //3. Lenght -->
 // console.log(firstName.lenght)
 //4. Cases -->
-console.log(firstName.toLowerCase());
-console.log(firstName.toUpperCase());
+// console.log(firstName.toLowerCase());
+// console.log(firstName.toUpperCase());
+//5. Slice 
+console.log(firstName.slice())
 
 console.log(fullName);
