@@ -14,9 +14,9 @@ console.log({
   age: 27,
 })
 //veriables-->
-// var 
-// let 
+// var
+// let
 // const
 //declared variable
-let name;
+let name = "ganesh";
 console.log(name);
