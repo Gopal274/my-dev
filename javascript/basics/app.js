@@ -24,3 +24,12 @@ console.log(name);
 let banana;
 banana = "banana";
 console.log(banana);
+
+
+// let var = "variable"
+// console.log(var)
+//var
+//class
+//const
+//if 
+
