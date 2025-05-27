@@ -203,25 +203,32 @@ console.log(firstFavNumb != secondFavNumb);
 let firstName = "     hacker     ";
 let secondName = "arena";
 // let fullName = firstName +" " + secondName;
-//1.Concatenation -->
 
-let fullName = firstName.concat(secondName);
+//1.Concatenation -->
+// let fullName = firstName.concat(secondName);
 
 //2. Append -->
 // firstName += "YOUTUBER"
+
 //3. Lenght -->
 // console.log(firstName.lenght)
+
 //4. Cases -->
 // console.log(firstName.toLowerCase());
 // console.log(firstName.toUpperCase());
-//5. Slice
+
+//5. Slice-->
 // console.log(firstName.slice(0, 1))
-//6. Split & join
+
+//6. Split & join-->
 // console.log(firstName.split(""));
 // console.log(firstName.split("").join("-"));
-//7. Includes
+
+//7. Includes-->
 // console.log(firstName.icludes("w"));
+
 //8. Trim -->
-console.log(firstName.trim())
+// console.log(firstName.trim());
+
 // console.log(fullName);
-//
+
