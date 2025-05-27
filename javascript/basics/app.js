@@ -1,18 +1,19 @@
 console.table({
-  name: "gopal", age: 10
-})
-console.log("hello world")
-console.log("hello world")
-console.log("hello world")
-console.log("hello world")
-console.log("hello world")
-console.log("hello world")
-console.clear()
-console.log("hello")
+    name: "gopal",
+    age: 10
+});
+console.log("hello world");
+console.log("hello world");
+console.log("hello world");
+console.log("hello world");
+console.log("hello world");
+console.log("hello world");
+console.clear();
+console.log("hello");
 console.log({
-  name: "alex",
-  age: 27,
-})
+    name: "alex",
+    age: 27
+});
 //veriables-->
 // var
 // let
@@ -25,7 +26,6 @@ let banana;
 banana = "banana";
 console.log(banana);
 
-
 // let var = "variable"
 // console/let 10gopal ="variable".log(var)
 //var
@@ -33,8 +33,8 @@ console.log(banana);
 //const
 //if
 //for
-let gopal10 = "variable"
-console.log(gopal10)
+let gopal10 = "variable";
+console.log(gopal10);
 //let 10gopal ="variable"
 //console.log=(10gopal)
 
@@ -46,7 +46,7 @@ console.log(hackerarena);
 
 let UPPERCASE = "variable";
 let lowercase = "variable";
-let youtubeChannel = "variable" //camelcase
+let youtubeChannel = "variable"; //camelcase
 
 //1.create variable name (name ) & store your name
 //2.create variable name (whatDoYouWannaBecaneInYourKife) & store you want to became
@@ -54,41 +54,41 @@ let youtubeChannel = "variable" //camelcase
 //4.create variable name (twitterHandle) & store your twitterHandle
 // finally log all the variables to the console
 
-let name = "hacker-arena"
-let whatDoYouWannaBecaneInYourLife = "professoinal doctor"
-let gender = "sigma male "
-let twitterHandle = "hacker arena "
+let name = "hacker-arena";
+let whatDoYouWannaBecaneInYourLife = "professoinal doctor";
+let gender = "sigma male ";
+let twitterHandle = "hacker arena ";
 
-console.log(name)
-console.log(whatDoYouWannaBecaneInYourLife)
-console.log(gender)
-console.log(twitterHandle)
+console.log(name);
+console.log(whatDoYouWannaBecaneInYourLife);
+console.log(gender);
+console.log(twitterHandle);
 
 //primitive types
 //1.number
 let num = 10;
-console.log(num)
-console.log(typeof num) //typeof --> result keyword
+console.log(num);
+console.log(typeof num); //typeof --> result keyword
 
 //arithmatic/basic math
-console.log(2+2)
-console.log(2-2)
-console.log(2*2)
-console.log(2/2)
-console.log(3%2)
-console.log(3**2)
+console.log(2 + 2);
+console.log(2 - 2);
+console.log(2 * 2);
+console.log(2 / 2);
+console.log(3 % 2);
+console.log(3 ** 2);
 
 let counter = 0;
-console.log(counter)
-counter ++;
-counter ++;
-counter ++;
-counter ++;
-console.log(counter)
+console.log(counter);
+counter++;
+counter++;
+counter++;
+counter++;
+console.log(counter);
 
-counter --;
-counter --;
-console.log(counter)
+counter--;
+counter--;
+console.log(counter);
 
 //1. crwate variable name (firstFavNum) & store yiur favorute number
 //2. crwate variable name (secondFavNum) & store your second favorute number
@@ -101,25 +101,25 @@ console.log(counter)
 
 let firstFavNum = -2;
 let secondFavNum = 4;
-console.log(firstFavNum+secondFavNum)
-console.log(firstFavNum-secondFavNum)
-console.log(firstFavNum*secondFavNum)
-console.log(firstFavNum/secondFavNum)
-console.log(firstFavNum%secondFavNum)
-console.log(firstFavNum**secondFavNum)
+console.log(firstFavNum + secondFavNum);
+console.log(firstFavNum - secondFavNum);
+console.log(firstFavNum * secondFavNum);
+console.log(firstFavNum / secondFavNum);
+console.log(firstFavNum % secondFavNum);
+console.log(firstFavNum ** secondFavNum);
 
 //boolean --> true or false
 let isTrue = true;
-console.log(isTrue)
+console.log(isTrue);
 
 isTrue = false;
-console.log(isTrue)
+console.log(isTrue);
 
 isTrue = NaN;
-console.log(isTrue)
+console.log(isTrue);
 
 let number = 10;
-console.log(number + undefined)
+console.log(number + undefined);
 
 //falsy values-->
 //false
@@ -129,7 +129,6 @@ console.log(number + undefined)
 //-0
 //NaN
 //"", ' ' ,(empty quotes)
-
 
 let notDefined = undefined;
 console.log(notDefined);
@@ -144,10 +143,9 @@ console.log(notDefined);
 let isJsProgrammingLanguage = true;
 let isJsHard = false;
 let favNumb = 4;
-console.log(favNumb + undefined)
-console.log(isJsProgrammingLanguage)
-console.log(isJsHard)
-
+console.log(favNumb + undefined);
+console.log(isJsProgrammingLanguage);
+console.log(isJsHard);
 
 // Comparison Operators -->
 // Relational Operators :-->
@@ -156,15 +154,12 @@ console.log(isJsHard)
 // >= Greater than or equal to
 // <= Less than or equal to
 
-console.log(10 > 10) // true||false ?   -->false
-console.log(10 < 10) // -->false
-console.log(10 < 50) // -->true
-console.log(100 > 50) // -->true
-console.log(10 <= 50) // -->true
-console.log(100 >= 50) // -->true
-
-
-
+console.log(10 > 10); // true||false ?   -->false
+console.log(10 < 10); // -->false
+console.log(10 < 50); // -->true
+console.log(100 > 50); // -->true
+console.log(10 <= 50); // -->true
+console.log(100 >= 50); // -->true
 
 //Equality Operators
 // === strict Equality Operators (type + valur )
@@ -172,15 +167,15 @@ console.log(100 >= 50) // -->true
 // == lose Equality Operators ( value)
 // != not Equality Operators
 
-console.log(10 === "10") // --> false
-console.log(10 === 10) // --> true
-console.log(10 !== 10) // --> false
-console.log(10 !== "10") // --> true
+console.log(10 === "10"); // --> false
+console.log(10 === 10); // --> true
+console.log(10 !== 10); // --> false
+console.log(10 !== "10"); // --> true
 
-console.log(10 == 10) // --> true
-console.log(10 != '10') // --> flase
-console.log(10 != 10) // --> flase
-console.log(10 != "10") // --> flase
+console.log(10 == 10); // --> true
+console.log(10 != "10"); // --> flase
+console.log(10 != 10); // --> flase
+console.log(10 != "10"); // --> flase
 
 //1.create variable name (firstFavNumb) & store your favorite number
 //2.create variable name (secondFavNumb) & store second fav number
@@ -195,16 +190,16 @@ console.log(10 != "10") // --> flase
 
 let firstFavNumb = 16;
 let secondFavNumb = 13;
-console.log(firstFavNumb > secondFavNumb)
-console.log(firstFavNumb < secondFavNumb)
-console.log(firstFavNumb >= secondFavNumb)
-console.log(firstFavNumb <= secondFavNumb)
-console.log(firstFavNumb === secondFavNumb)
-console.log(firstFavNumb == secondFavNumb)
-console.log(firstFavNumb !== secondFavNumb)
-console.log(firstFavNumb != secondFavNumb)
+console.log(firstFavNumb > secondFavNumb);
+console.log(firstFavNumb < secondFavNumb);
+console.log(firstFavNumb >= secondFavNumb);
+console.log(firstFavNumb <= secondFavNumb);
+console.log(firstFavNumb === secondFavNumb);
+console.log(firstFavNumb == secondFavNumb);
+console.log(firstFavNumb !== secondFavNumb);
+console.log(firstFavNumb != secondFavNumb);
 
 //string -->
-let firstName = "hacker"
+let firstName = "hacker";
 let secondName = "arena"
 let fullName = firstName + secondName;
