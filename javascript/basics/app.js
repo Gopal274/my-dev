@@ -64,4 +64,14 @@ console.log(whatDoYouWannaBecaneInYourLife)
 console.log(gender)
 console.log(twitterHandle)
 
-
+//primitive types
+ //1.number 
+ let num = 10 ;
+ console.log(num)
+ console.log(typeof num) //typeof --> result keyword
+ 
+ //arithmatic/basic math 
+ console.log(2+2)
+ console.log(2-2)
+ console.log(2*2)
+ console.log(2/2)
