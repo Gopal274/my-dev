@@ -205,5 +205,13 @@ let secondName = "arena";
 // let fullName = firstName +" " + secondName;
 //1.Concatenation -->
 
-let fullName = firstName.concat(secondName)
+let fullName = firstName.concat(secondName);
+
+//2. Append -->
+// firstName += "YOUTUBER"
+//3. Lenght -->
+// console.log(firstName.lenght)
+//4. Cases -->
+ console.log(firstName.toLowerCase())
+
 console.log(fullName);
