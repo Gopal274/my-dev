@@ -148,3 +148,9 @@ console.log(favNumb + undefined)
 console.log(isJsProgrammingLanguage)
 console.log(isJsHard)
 
+
+// Comparison Operators -->
+// Relational Operators
+//Equality Operators
+
+
