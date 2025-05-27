@@ -108,4 +108,12 @@ let secondFavNum = 4;
   console.log(firstFavNum%secondFavNum)
   console.log(firstFavNum**secondFavNum)
   
+  //boolean --> true or false 
+  let isTrue = true ;
+  console.log(isTrue)
+  
+  isTrue = false ;
+  console.log(isTrue)
+  
+  
   
