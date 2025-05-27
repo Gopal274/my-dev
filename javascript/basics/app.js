@@ -85,3 +85,7 @@ console.log(twitterHandle)
  counter ++;
  counter ++;
  console.log(counter)
+ 
+ counter --;
+ counter --;
+ console.log(counter)
