@@ -202,6 +202,5 @@ console.log(firstFavNumb != secondFavNumb);
 //string -->
 let firstName = "hacker";
 let secondName = "arena";
-let fullName = firstName + secondName;
-
-
+let fullName = firstName +" " + secondName;
+console.log(fullName)
