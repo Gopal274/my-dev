@@ -156,12 +156,12 @@ console.log(isJsHard)
 // >= Greater than or equal to
 // <= Less than or equal to
 
-console.log(10>10 ) // true||false ?   -->false
-console.log(10<10 ) // -->false
-console.log(10<50 ) // -->true
-console.log(100>50 ) // -->true
-console.log(10<=50 ) // -->true
-console.log(100>=50 ) // -->true
+console.log(10 > 10) // true||false ?   -->false
+console.log(10 < 10) // -->false
+console.log(10 < 50) // -->true
+console.log(100 > 50) // -->true
+console.log(10 <= 50) // -->true
+console.log(100 >= 50) // -->true
 
 
 
@@ -171,3 +171,9 @@ console.log(100>=50 ) // -->true
 // !== strict non-Equality Operators
 // == lose Equality Operators ( value)
 // != not Equality Operators
+
+console.log(10 === "10") // --> false
+console.log(10 === 10) // --> true
+console.log(10 !== 10) // --> false
+console.log(10 !== "10") // --> true
+
