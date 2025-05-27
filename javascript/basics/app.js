@@ -118,5 +118,14 @@ console.log(isTrue)
 isTrue = NaN;
 console.log(isTrue)
 
-let number = 10 ;
+let number = 10;
 console.log(number + undefined)
+
+//falsy values-->
+//false 
+//null 
+//undefined
+//0
+//-0
+//NaN
+//""
