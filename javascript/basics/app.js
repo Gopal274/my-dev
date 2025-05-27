@@ -217,5 +217,6 @@ let fullName = firstName.concat(secondName);
 //5. Slice 
 // console.log(firstName.slice(0, 1))
 //6. Split & join 
+console.log(firstName.split(""))
 console.log(firstName.split("").join("-"))
 console.log(fullName);
