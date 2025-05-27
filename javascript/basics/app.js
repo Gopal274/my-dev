@@ -42,4 +42,8 @@ console.log = (gopal10)
 // console.log(hacker-arena)
 
 let hackerarena = "variable";
-console.log(hackerarena)
+console.log(hackerarena);
+
+let UPPERCASE="variable";
+let lowercase="variable";
+let youtubeChannel="variable" //camelcase
