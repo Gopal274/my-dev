@@ -118,3 +118,5 @@ console.log(isTrue)
 isTrue = NaN;
 console.log(isTrue)
 
+let number = 10 ;
+console.log(number + undefined)
