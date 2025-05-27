@@ -27,9 +27,17 @@ console.log(banana);
 
 
 // let var = "variable"
-// console.log(var)
+// console/let 10gopal ="variable".log(var)
 //var
 //class
 //const
 //if
-lallqlq
+//for 
+let gopal10 ="variable"
+console.log=(gopal10)
+//let 10gopal ="variable"
+//console.log=(10gopal)
+// let hacker-arena= "variable";
+// console.log(hacker-arena)
+let hackerarena= "variable";
+console.log(hackerarena)
