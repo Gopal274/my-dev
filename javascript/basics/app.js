@@ -130,3 +130,8 @@ console.log(number + undefined)
 //NaN
 //"", ' ' ,(empty quotes)
 
+
+let notDefined = undefined;
+console.log(notDefined);
+notDefined = null;
+console.log(notDefined);
