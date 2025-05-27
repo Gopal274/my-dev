@@ -55,11 +55,13 @@ let youtubeChannel = "variable" //camelcase
 // finally log all the variables to the console
 
 let name = "hacker-arena"
-let whatDoYouWannaBecaneInYourKife = "professoinal doctor"
+let whatDoYouWannaBecaneInYourLife = "professoinal doctor"
 let gender = "sigma male "
 let twitterHandle = "hacker arena "
 
 console.log(name)
-console.log(whatDoYouWannaBecaneInYourKife)
+console.log(whatDoYouWannaBecaneInYourLife)
 console.log(gender)
 console.log(twitterHandle)
+
+
