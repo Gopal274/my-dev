@@ -160,6 +160,8 @@ console.log(10>10 ) // true||false ?   -->false
 console.log(10<10 ) // -->false
 console.log(10<50 ) // -->true
 console.log(100>50 ) // -->true
+console.log(10<=50 ) // -->true
+console.log(100>=50 ) // -->true
 
 
 
