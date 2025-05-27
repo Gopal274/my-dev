@@ -150,7 +150,11 @@ console.log(isJsHard)
 
 
 // Comparison Operators -->
-// Relational Operators
-//Equality Operators
+// Relational Operators :-->
+> Greater than 
+< Less than 
+>= Greater than or equal to 
+<= Less than or equal to 
 
+//Equality Operators
 
