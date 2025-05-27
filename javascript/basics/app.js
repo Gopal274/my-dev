@@ -18,5 +18,9 @@ console.log({
 // let
 // const
 //declared variable
-let name = "ganesh";
+let name;
 console.log(name);
+//assign value
+let banana;
+banana = "banana";
+console.log(banana);
