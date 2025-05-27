@@ -44,7 +44,22 @@ console.log = (gopal10)
 let hackerarena = "variable";
 console.log(hackerarena);
 
-let UPPERCASE="variable";
-let lowercase="variable";
-let youtubeChannel="variable" //camelcase
+let UPPERCASE = "variable";
+let lowercase = "variable";
+let youtubeChannel = "variable" //camelcase
 
+//1.create variable name (name ) & store your name 
+//2.create variable name (whatDoYouWannaBecaneInYourKife) & store you want to became 
+//3.create variable name (gender) & store your gender
+//4.create variable name (twitterHandle) & store your twitterHandle
+// finally log all the variables to the console
+
+let name = "hacker-arena"
+let whatDoYouWannaBecaneInYourKife = "professoinal doctor"
+let gender = "sigma male "
+let twitterHandle = "hacker arena "
+
+console.log(name)
+console.log(whatDoYouWannaBecaneInYourKife)
+console.log(gender)
+console.log(twitterHandle)
