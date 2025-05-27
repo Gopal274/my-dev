@@ -167,3 +167,7 @@ console.log(100>=50 ) // -->true
 
 
 //Equality Operators
+// === strict Equality Operators (type + valur )
+// !== strict non-Equality Operators
+// == lose Equality Operators ( value)
+// != not Equality Operators
