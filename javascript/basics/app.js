@@ -205,4 +205,5 @@ let secondName = "arena";
 // let fullName = firstName +" " + secondName;
 //1.Concatenation -->
 
-console.log(fullName)
+let fullName = firstName.concat(secondName)
+console.log(fullName);
