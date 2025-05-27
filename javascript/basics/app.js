@@ -202,5 +202,7 @@ console.log(firstFavNumb != secondFavNumb);
 //string -->
 let firstName = "hacker";
 let secondName = "arena";
-let fullName = firstName +" " + secondName;
+// let fullName = firstName +" " + secondName;
+//1.Concatenation -->
+
 console.log(fullName)
