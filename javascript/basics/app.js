@@ -65,55 +65,56 @@ console.log(gender)
 console.log(twitterHandle)
 
 //primitive types
- //1.number 
- let num = 10 ;
- console.log(num)
- console.log(typeof num) //typeof --> result keyword
- 
- //arithmatic/basic math 
- console.log(2+2)
- console.log(2-2)
- console.log(2*2)
- console.log(2/2)
- console.log(3%2)
- console.log(3**2)
- 
- let counter = 0;
- console.log(counter)
- counter ++;
- counter ++;
- counter ++;
- counter ++;
- console.log(counter)
- 
- counter --;
- counter --;
- console.log(counter)
- 
- //1. crwate variable name (firstFavNum) & store yiur favorute number 
- //2. crwate variable name (secondFavNum) & store your second favorute number 
- //3. add (firstFavNum & secondFavNum)
- //4. subtract (firstFavNum & secondFavNum)
- //5. multiply (firstFavNum & secondFavNum)
- //6. devide (firstFavNum & secondFavNum)
+//1.number
+let num = 10;
+console.log(num)
+console.log(typeof num) //typeof --> result keyword
+
+//arithmatic/basic math
+console.log(2+2)
+console.log(2-2)
+console.log(2*2)
+console.log(2/2)
+console.log(3%2)
+console.log(3**2)
+
+let counter = 0;
+console.log(counter)
+counter ++;
+counter ++;
+counter ++;
+counter ++;
+console.log(counter)
+
+counter --;
+counter --;
+console.log(counter)
+
+//1. crwate variable name (firstFavNum) & store yiur favorute number
+//2. crwate variable name (secondFavNum) & store your second favorute number
+//3. add (firstFavNum & secondFavNum)
+//4. subtract (firstFavNum & secondFavNum)
+//5. multiply (firstFavNum & secondFavNum)
+//6. devide (firstFavNum & secondFavNum)
 //7. check (firstFavNum mod secondFavNum)
 // check the power of ( firstFavNum)
 
 let firstFavNum = -2;
 let secondFavNum = 4;
-  console.log(firstFavNum+secondFavNum)
-  console.log(firstFavNum-secondFavNum)
-  console.log(firstFavNum*secondFavNum)
-  console.log(firstFavNum/secondFavNum)
-  console.log(firstFavNum%secondFavNum)
-  console.log(firstFavNum**secondFavNum)
-  
-  //boolean --> true or false 
-  let isTrue = true ;
-  console.log(isTrue)
-  
-  isTrue = false ;
-  console.log(isTrue)
-  
-  
-  
+console.log(firstFavNum+secondFavNum)
+console.log(firstFavNum-secondFavNum)
+console.log(firstFavNum*secondFavNum)
+console.log(firstFavNum/secondFavNum)
+console.log(firstFavNum%secondFavNum)
+console.log(firstFavNum**secondFavNum)
+
+//boolean --> true or false
+let isTrue = true;
+console.log(isTrue)
+
+isTrue = false;
+console.log(isTrue)
+
+isTrue = NaN;
+console.log(isTrue)
+
