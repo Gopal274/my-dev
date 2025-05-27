@@ -200,7 +200,7 @@ console.log(firstFavNumb !== secondFavNumb);
 console.log(firstFavNumb != secondFavNumb);
 
 //string -->
-let firstName = "hacker";
+let firstName = "     hacker     ";
 let secondName = "arena";
 // let fullName = firstName +" " + secondName;
 //1.Concatenation -->
@@ -219,7 +219,9 @@ let fullName = firstName.concat(secondName);
 //6. Split & join
 // console.log(firstName.split(""));
 // console.log(firstName.split("").join("-"));
-//7. Includes 
-console.log(firstName.icludes("w"))
+//7. Includes
+// console.log(firstName.icludes("w"));
+//8. Trim -->
+console.log(firstName.trim())
 // console.log(fullName);
-// 
+//
