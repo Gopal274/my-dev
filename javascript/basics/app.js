@@ -122,10 +122,11 @@ let number = 10;
 console.log(number + undefined)
 
 //falsy values-->
-//false 
-//null 
+//false
+//null
 //undefined
 //0
 //-0
 //NaN
-//""
+//"", ' ' ,(empty quotes)
+
