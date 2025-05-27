@@ -182,8 +182,8 @@ console.log(10 != '10') // --> flase
 console.log(10 != 10) // --> flase
 console.log(10 != "10") // --> flase
 
-//1.create variable name (firstFavNumb) & store your favorite number 
-//2.create variable name (secondFavNumb) & store second fav number 
+//1.create variable name (firstFavNumb) & store your favorite number
+//2.create variable name (secondFavNumb) & store second fav number
 //3.Checj (firstFavNumb is greater tha  secondFavNumb)
 //4.Checj (firstFavNumb is less than secondFavNumb)
 //5.Checj (firstFavNumb is greater than or equal to secondFavNumb)
@@ -194,13 +194,12 @@ console.log(10 != "10") // --> flase
 //9.Checj (firstFavNumb is not equal to  secondFavNumb ) eith the help of loose non-Equality Operators
 
 let firstFavNumb = 16;
-let secondFavNumb = 13 ;
+let secondFavNumb = 13;
 console.log(firstFavNumb > secondFavNumb)
 console.log(firstFavNumb < secondFavNumb)
 console.log(firstFavNumb >= secondFavNumb)
 console.log(firstFavNumb <= secondFavNumb)
 console.log(firstFavNumb === secondFavNumb)
 console.log(firstFavNumb == secondFavNumb)
-console.log(firstFavNumb !==secondFavNumb)
-console.log(firstFavNumb !=secondFavNumb)
-
+console.log(firstFavNumb !== secondFavNumb)
+console.log(firstFavNumb != secondFavNumb)
