@@ -89,3 +89,23 @@ console.log(twitterHandle)
  counter --;
  counter --;
  console.log(counter)
+ 
+ //1. crwate variable name (firstFavNum) & store yiur favorute number 
+ //2. crwate variable name (secondFavNum) & store your second favorute number 
+ //3. add (firstFavNum & secondFavNum)
+ //4. subtract (firstFavNum & secondFavNum)
+ //5. multiply (firstFavNum & secondFavNum)
+ //6. devide (firstFavNum & secondFavNum)
+//7. check (firstFavNum mod secondFavNum)
+// check the power of ( firstFavNum)
+
+let firstFavNum = -2;
+let secondFavNum = 4;
+  console.log(firstFavNum+secondFavNum)
+  console.log(firstFavNum-secondFavNum)
+  console.log(firstFavNum*secondFavNum)
+  console.log(firstFavNum/secondFavNum)
+  console.log(firstFavNum%secondFavNum)
+  console.log(firstFavNum**secondFavNum)
+  
+  
