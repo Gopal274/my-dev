@@ -49,7 +49,7 @@ let bulb;
 switch (X) {
     case 0:
         bulb = "off";
- console.log(bulb);
+        console.log(bulb);
         break;
     case 1:
         bulb = "On";
@@ -60,12 +60,24 @@ switch (X) {
         console.log(bulb);
 }
 
-let day = "monday"
+let day = "monday";
 
 switch (day) {
-  case "monday":
-    console.log('Today is monday')
-    break;
-  case "tuesday":
-    console.log("Today is tuesday")
+    case "monday":
+        console.log("Today is monday");
+        break;
+    case "tuesday":
+        console.log("Today is tuesday");
+        break;
+    case "wednesday":
+        console.log("Today is wednesday");
+        break;
+    case "thirsday":
+        console.log("Today is thirsday");
+        break;
+    
+    case "friday":
+        console.log("Today is friday");
+        break;
+        
 }
