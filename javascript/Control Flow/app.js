@@ -29,9 +29,9 @@ if (time < 10) {
 //4. if password is greater than or equal to 8 print " Too long Password " & " Password should be 8 charaters"
 //5. if all fails print " please provide a password"
 
-let password;
+let password = 8;
 
-if ((password === 8)) {
+if (password === 8) {
     console.log("welcome");
 } else if (password <= 8) {
     console.log("password is too short");
