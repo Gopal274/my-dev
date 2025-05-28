@@ -242,9 +242,10 @@ let desc = "this is some random";
 //5.  create a variable name (message ) & store `my favorite Actor Is (favActorName) & say something about your fav actor` Name should be in UPPERCASE.
 //6. Now append this message to the (message  variable) 'his best show is in his first movie'
 //7. now log you message-->
- 
- let favActorFirstName ="shradha" 
- let favActorLastName = " kapoor "
- let fullName = favActorFirstName.concat(favActorLastName)
- let UPPERCASE = fullName.toUpperCase()
- let message = `my favorite actor is ${fullName} & she is daughter of kapoor`
+
+let favActorFirstName = "shradha";
+let favActorLastName = " kapoor ";
+let fullName = favActorFirstName.concat(favActorLastName);
+let UPPERCASE = fullName.toUpperCase();
+let message = `my favorite actor is ${fullName} & she is daughter of kapoor`;
+message += "his best movie is her first movie"
