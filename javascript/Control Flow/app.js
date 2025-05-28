@@ -46,14 +46,16 @@ if (password === 8) {
 let X = 0;
 let bulb;
 
-switch (x) {
+switch (X) {
     case 0:
         bulb = "off";
+ console.log(bulb);
         break;
     case 1:
         bulb = "On";
+        console.log(bulb);
         break;
     default:
         bulb = " no value found";
-        console.log(bulb)
+        console.log(bulb);
 }
