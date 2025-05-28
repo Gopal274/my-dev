@@ -8,21 +8,17 @@ if (a > b) {
 } else {
     console.log("a is equal to b");
 }
- 
- 
-let time = 10
+
+let time = 10;
 let greatings;
 
-if (time < 10 ) {
-  greetings = "Good Morning"
-  console.log(greetings)
+if (time < 10) {
+    greetings = "Good Morning";
+    console.log(greetings);
+} else if (time < 20) {
+    greetings = "Good Day";
+    console.log(greetings);
+} else {
+    greetings = " Good Evening";
+    console.log(greetings);
 }
-else if (time < 20 ) {
-  greetings = "Good Day"
-  console.log(greetings)
-}
-else{
-  greetings = " Good Evening"
-  console.log(greetings)
-}
-
