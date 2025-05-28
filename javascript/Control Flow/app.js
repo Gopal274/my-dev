@@ -41,19 +41,18 @@ if (password === 8) {
     console.log("please provide a password");
 }
 
-
 // Switch Statements -->
 
-let X = '0'
+let X = "0";
 let text;
 
-switch (x){
-  case 0:
-    text = "off"
-    break;
-  case 1:
-    text = "On"
-    break;
-  default:
-    text = " no value found"
+switch (x) {
+    case 0:
+        text = "off";
+        break;
+    case 1:
+        text = "On";
+        break;
+    default:
+        text = " no value found";
 }
