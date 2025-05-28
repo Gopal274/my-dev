@@ -33,6 +33,8 @@ if (time < 10) {
   if (password = 8){
     console.log("welcome")
   }
-  else (password < )
+  else (password <= 8){
+    
+  }
  
  
