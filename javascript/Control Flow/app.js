@@ -32,9 +32,10 @@ if (time < 10) {
  let password;
   if (password = 8){
     console.log("welcome")
-  }
-  else (password <= 8){
-    
+  } else if (password <= 8){
+    console.log("password is too short")
+  } else if (password >= 8){
+    console.log("Too long password")
   }
  
  
