@@ -23,3 +23,16 @@ if (time < 10) {
     console.log(greetings);
 }
 
+//1. create a variable name (password ) & store nothing
+//2. if password is equal to 8 print " welcome "
+//3. if  password is less than or equal to 8 print "password is too short "
+//4. if password is greater than or equal to 8 print " Too long Password " & " Password should be 8 charaters"
+//5. if all fails print " please provide a password"
+
+ let password;
+  if (password = 8){
+    console.log("welcome")
+  }
+  else (password < )
+ 
+ 
