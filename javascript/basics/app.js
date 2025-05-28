@@ -252,13 +252,17 @@ message += " his best movie is her movie aashiqui2";
 console.log(message);
 
 //types of conversion -->
-let money = 50;
+let money = "50.235"
 // - Convert string to number
 //money = parseInt(money);
 //money = +money
 //money = Number(money);
 
 // - Convert number to string
-money = money.toString();
+// money = money.toString();
+// money = String(money)
+// - Convert string to decimal  
+money = parseFloat(money)
+
 console.log(money);
 console.log(typeof money);
