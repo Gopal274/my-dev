@@ -233,5 +233,5 @@ let secondName = "arena";
 // console.log(fullName);
 
 let desc = "this is some random";
-let fullName =`${firstName} ${secondName};
-console.log(fullName);
+let fullName = `${firstName} ${secondName}`;
+console.log(fullName)
