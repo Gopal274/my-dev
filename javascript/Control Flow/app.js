@@ -88,10 +88,11 @@ switch (day) {
         console.log("don't know what day today is");
 }
 
-
-
 //1. Create variable name (fruit) & store "banana".
 //2. if case is "banana" print "Banana is good!"
 //3. if case is "orange" print "i am not a fan of of orange."
 //4. if case is "Apple " print "Hoe you likr them apples?"
 //5. default "I have never heard of that fruit"
+
+
+
