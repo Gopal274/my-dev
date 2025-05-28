@@ -75,9 +75,8 @@ switch (day) {
     case "thirsday":
         console.log("Today is thirsday");
         break;
-    
+
     case "friday":
         console.log("Today is friday");
         break;
-        
 }
