@@ -36,4 +36,7 @@ if ((password = 8)) {
     console.log("password is too short");
 } else if (password >= 8) {
     console.log("Too long password");
+} else {
+  
 }
+console.log("please provide a password")
