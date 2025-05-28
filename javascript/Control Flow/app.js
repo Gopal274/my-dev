@@ -60,7 +60,7 @@ switch (X) {
         console.log(bulb);
 }
 
-let day = "monday";
+let day;
 
 switch (day) {
     case "monday":
