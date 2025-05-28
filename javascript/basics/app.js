@@ -252,9 +252,14 @@ message += " his best movie is her movie aashiqui2";
 console.log(message);
 
 //types of conversion -->
-let money = "50";
+let money = 50;
 // - Convert string to number
-money = parseInt(money);
-money = +money
+//money = parseInt(money);
+//money = +money
+
+// - Convert number to string 
+money = money.toString();
+//money = Number(money);
 console.log(money);
 console.log(typeof money);
+
