@@ -81,6 +81,6 @@ switch (day) {
     case "satuarday":
         console.log("Today is satuarday");
         break;
-        default:
-        console.log("Today is sunday")
+    default:
+        console.log("Today is sunday");
 }
