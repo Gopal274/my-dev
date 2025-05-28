@@ -30,14 +30,13 @@ if (time < 10) {
 //5. if all fails print " please provide a password"
 
 let password;
-if ((password = 8)) {
+
+if ((password === 8)) {
     console.log("welcome");
 } else if (password <= 8) {
     console.log("password is too short");
 } else if (password >= 8) {
     console.log("Too long password");
 } else {
-
-console.log("please provide a password");
-  
+    console.log("please provide a password");
 }
