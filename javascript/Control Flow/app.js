@@ -44,15 +44,15 @@ if (password === 8) {
 // Switch Statements -->
 
 let X = "0";
-let text;
+let bulb;
 
 switch (x) {
     case 0:
-        text = "off";
+        bulb = "off";
         break;
     case 1:
-        text = "On";
+        bulb = "On";
         break;
     default:
-        text = " no value found";
+        bulb = " no value found";
 }
