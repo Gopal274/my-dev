@@ -258,8 +258,7 @@ let money = 50;
 //money = +money
 //money = Number(money);
 
-// - Convert number to string 
+// - Convert number to string
 money = money.toString();
 console.log(money);
 console.log(typeof money);
-
