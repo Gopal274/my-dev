@@ -247,6 +247,6 @@ let favActorFirstName = "shraddha";
 let favActorLastName = " kapoor ";
 let fullName = favActorFirstName.concat(favActorLastName);
 let uppercase = fullName.toUpperCase();
-let message = `my favorite actor is ${fullName} & she is daughter of sakti kapoor`;
-message += "his best movie is her movie aashiqui2";
+let message = `my favorite actor is ${uppercase} & she is daughter of sakti kapoor`;
+message += " his best movie is her movie aashiqui2";
 console.log(message);
