@@ -22,3 +22,4 @@ if (time < 10) {
     greetings = " Good Evening";
     console.log(greetings);
 }
+
