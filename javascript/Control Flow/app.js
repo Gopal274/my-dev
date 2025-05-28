@@ -43,7 +43,7 @@ if (password === 8) {
 
 // Switch Statements -->
 
-let X = "0";
+let X = 0;
 let bulb;
 
 switch (x) {
@@ -55,4 +55,5 @@ switch (x) {
         break;
     default:
         bulb = " no value found";
+        console.log(bulb)
 }
