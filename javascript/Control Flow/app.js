@@ -59,3 +59,13 @@ switch (X) {
         bulb = " no value found";
         console.log(bulb);
 }
+
+let day = "monday"
+
+switch (day) {
+  case "monday":
+    console.log('Today is monday')
+    break;
+  case "tuesday":
+    console.log("Today is tuesday")
+}
