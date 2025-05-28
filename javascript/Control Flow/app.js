@@ -9,7 +9,7 @@ if (a > b) {
     console.log("a is equal to b");
 }
 
-let time = 10;
+let time = 5;
 let greatings;
 
 if (time < 10) {
