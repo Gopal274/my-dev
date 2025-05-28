@@ -250,3 +250,7 @@ let uppercase = fullName.toUpperCase();
 let message = `my favorite actor is ${uppercase} & she is daughter of sakti kapoor`;
 message += " his best movie is her movie aashiqui2";
 console.log(message);
+
+//types of conversion -->
+ let money = "50"
+ console.log(typeof money)
