@@ -254,6 +254,7 @@ console.log(message);
 //types of conversion -->
 let money = "50";
 // - Convert string to number
-money = parseInt(money)
-console.log(money)
+money = parseInt(money);
+money = +money
+console.log(money);
 console.log(typeof money);
