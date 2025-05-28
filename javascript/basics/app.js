@@ -243,7 +243,7 @@ let desc = "this is some random";
 //6. Now append this message to the (message  variable) 'his best show is in his first movie'
 //7. now log you message-->
 
-let favActorFirstName = "shradha";
+let favActorFirstName = "shraddha";
 let favActorLastName = " kapoor ";
 let fullName = favActorFirstName.concat(favActorLastName);
 let uppercase = fullName.toUpperCase();
