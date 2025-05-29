@@ -163,6 +163,11 @@ do {
 } while (m <= 400);
 
 // 1. --> logical AND (&&)
-
+ const a = true
+ const b = false
+ const c = 4 
+ 
+ console.log(a && b)
 // 2. --> logical OR (||)
 // 3. --> logical NOT (!)
+
