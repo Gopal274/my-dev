@@ -192,3 +192,10 @@ if (passwords.length >= 8 || passwords.includes("arena")) {
 
 let isTrue = true
 console.log(!isTrue)
+
+// Arrays --> 0 index based
+
+// empty array 
+
+let myList = []
+console.log(myList)
