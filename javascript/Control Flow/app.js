@@ -208,9 +208,9 @@ console.log(stringArr);
 
 console.log(stringArr[0]);
 
-// nested Array 
-const nestArr = ["one",["two" ,"three"],1 ,true , false ]
-console.log(nestArr)
-console.log(nestArr[1])
+// nested Array
+const nestArr = ["one", ["two", "three"], 1, true, false];
+console.log(nestArr);
+console.log(nestArr[1][1]);
 
 
