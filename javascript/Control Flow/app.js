@@ -145,20 +145,19 @@ while (j <= 100) {
 
 // Do while loop -->
 
-let k = 1 
- 
+let k = 1;
+
 do {
-  console.log("hello world", k)
-  k++
-}while (k <= 5)
+    console.log("hello world", k);
+    k++;
+} while (k <= 5);
 
 //print "your Name " 400 times to the console using do-while-loop.
 //Iteration should start from 20.
 
-let m = 20 
+let m = 20;
 
 do {
-  console.log("hacker-arena", m)
-  m++;
-}while(m<=400)
-
+    console.log("hacker-arena", m);
+    m++;
+} while (m <= 400);
