@@ -167,6 +167,6 @@ const x = true;
 const y = false;
 const z = 4;
 
-console.log(a && b);
+console.log(x && y);
 // 2. --> logical OR (||)
 // 3. --> logical NOT (!)
