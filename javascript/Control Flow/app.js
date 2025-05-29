@@ -129,7 +129,7 @@ switch (fruit) {
 // let i = 1;
 //
 // while (i <= 5) {
-//     console.log("hello world ", i);
+//     console.log("hi world ", i);
 //     i++;
 // }
 
@@ -148,7 +148,7 @@ switch (fruit) {
 // let k = 1;
 //
 // do {
-//     console.log("hello world", k);
+//     console.log("hi world", k);
 //     k++;
 // } while (k <= 5);
 
@@ -225,12 +225,21 @@ console.log(myLetters);
 let favSingers = ["Arjit singh", "yo yo honey", "lata mangeshkar"];
 console.log(favSingers[0]);
 let favNumbers = [4, 12, 13, 27];
-let mixedArr = ["hello", ["fruit", "vegetable", 234], 78, true];
+let mixedArr = ["hi", ["fruit", "vegetable", 234], 78, true];
 console.log(mixedArr[0]);
 console.log(mixedArr[1][0]);
 console.log(mixedArr[1][1]);
 console.log(mixedArr[1][2]);
 console.log(mixedArr[2]);
 console.log(mixedArr[3]);
+
+const fruits = [
+  "apples",
+  "pomegranate",
+  "mango",
+  "strawberries",
+  "pineapple",
+  "grapefruit",
+  ]
 
 
