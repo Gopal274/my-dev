@@ -111,7 +111,7 @@ switch (fruit) {
 }
 
 // for loop -->
-// 
+//
 // for (let i = 1; i <= 2; i++) {
 //     console.log("---outer loop---", i);
 //     // nested loop
@@ -127,7 +127,7 @@ switch (fruit) {
 
 // while loop -->
 // let i = 1;
-// 
+//
 // while (i <= 5) {
 //     console.log("hello world ", i);
 //     i++;
@@ -137,7 +137,7 @@ switch (fruit) {
 // Iteratoin will start from 10
 
 // let j = 10;
-// 
+//
 // while (j <= 100) {
 //     console.log("hacker-arena", j);
 //     j++;
@@ -146,7 +146,7 @@ switch (fruit) {
 // Do while loop -->
 
 // let k = 1;
-// 
+//
 // do {
 //     console.log("hello world", k);
 //     k++;
@@ -156,7 +156,7 @@ switch (fruit) {
 //Iteration should start from 20.
 
 // let m = 20;
-// 
+//
 // do {
 //     console.log("hacker-arena", m);
 //     m++;
@@ -199,3 +199,6 @@ console.log(!isTrue);
 
 let myList = [];
 console.log(myList);
+
+const numbersArray = [1, 2, 3, 4, 5,]
+console.log(numbersArray)
