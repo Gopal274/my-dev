@@ -142,3 +142,10 @@ while (j <= 100) {
     console.log("hacker-arena", j);
     j++;
 }
+
+let k = 1 
+ 
+do {
+  console.log("hello world", i)
+  i++
+}while (i <= 5)
