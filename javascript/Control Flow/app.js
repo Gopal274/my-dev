@@ -112,12 +112,12 @@ switch (fruit) {
 
 // for loop -->
 
-for (let i = 1; i <= 2 ; i++ ){
-  console.log('---outer loop---' , i)
-  // nested loop 
-  for (let j = 1; j <= 2; j++ ){
-    console.log('---inner loop ---', j)
-  }
+for (let i = 1; i <= 2; i++) {
+    console.log("---outer loop---", i);
+    // nested loop
+    for (let j = 1; j <= 2; j++) {
+        console.log("---inner loop ---", j);
+    }
 }
 
 // print your name & numbet from 0 through 1000
@@ -125,3 +125,10 @@ for (let i = 1; i <= 2 ; i++ ){
 //   console.log("hacker-arena",k)
 // }
 
+// while loop -->
+let i = 1 ;
+
+while ( i <= 5 ){
+  console.log('hello world ' , i)
+  i++
+}
