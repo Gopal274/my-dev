@@ -146,6 +146,6 @@ while (j <= 100) {
 let k = 1 
  
 do {
-  console.log("hello world", i)
-  i++
-}while (i <= 5)
+  console.log("hello world", k)
+  k++
+}while (k <= 5)
