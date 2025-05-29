@@ -112,10 +112,10 @@ switch (fruit) {
 
 // for loop -->
 
-for (let i = 0; i <= 2 ; i++ ){
+for (let i = 1; i <= 2 ; i++ ){
   console.log('---outer loop---' , i)
   // nested loop 
-  for (let j = 0 ; j <= 2; j++ ){
+  for (let j = 1; j <= 2; j++ ){
     console.log('---inner loop ---', j)
   }
 }
