@@ -126,19 +126,19 @@ for (let i = 1; i <= 2; i++) {
 // }
 
 // while loop -->
-let i = 1 ;
+let i = 1;
 
-while ( i <= 5 ){
-  console.log('hello world ' , i)
-  i++
+while (i <= 5) {
+    console.log("hello world ", i);
+    i++;
 }
 
-// Print "your name" 100 times to the console using while loop 
+// Print "your name" 100 times to the console using while loop
 // Iteratoin will start from 10
 
-let j = 10
+let j = 10;
 
-while (j <= 100 ){
-  console.log("hacker-arena",j)
-  j++
+while (j <= 100) {
+    console.log("hacker-arena", j);
+    j++;
 }
