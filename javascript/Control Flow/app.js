@@ -172,4 +172,6 @@ console.log(z > 2 && z < 2);
 
 // 2. --> logical OR (||)
 console.log(x || y);
+console.log(y|| y);
+
 // 3. --> logical NOT (!)
