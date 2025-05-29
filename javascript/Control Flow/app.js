@@ -132,3 +132,13 @@ while ( i <= 5 ){
   console.log('hello world ' , i)
   i++
 }
+
+// Print "your name" 100 times to the console using while loop 
+// Iteratoin will start from 10
+
+let j = 10
+
+while (j <= 110 ){
+  console.log("hacker-arena",j)
+  j++
+}
