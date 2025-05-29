@@ -138,7 +138,7 @@ while ( i <= 5 ){
 
 let j = 10
 
-while (j <= 110 ){
+while (j <= 100 ){
   console.log("hacker-arena",j)
   j++
 }
