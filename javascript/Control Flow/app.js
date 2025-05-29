@@ -113,6 +113,6 @@ switch (fruit) {
 // for loop -->
 
 for (let i = 0; i <= 5 ; i++ ){
-  console.log(hello world , i)
+  console.log("hello world" , i)
 }
 
