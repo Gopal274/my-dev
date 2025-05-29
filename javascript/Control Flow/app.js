@@ -215,3 +215,21 @@ console.log(nestArr[1][1]);
 
 const myLetters = ["h", "e", "l", "l", "o"];
 console.log(myLetters);
+
+//1. Create Array name (favSingers) & store 3 favorite Singers
+//2. log the first singer in that array
+//3. Create array name (favNumbers) g store 4 fav Numbers.
+//4. Create array name (mixedArr) store ["string",["otherarray"], 123,true]
+//5. Now Access each item in that array by using [] notatoin.
+
+let favSingers = ["Arjit singh", "yo yo honey", "lata mangeshkar"]
+console.log(favSingers[0])
+let favNumbers = [4,12,13,27]
+let mixedArr = ["hello", ["fruit","vegetable",234] , 78,true]
+console.log(mixedArr[0])
+console.log(mixedArr[1][0])
+console.log(mixedArr[1][1])
+console.log(mixedArr[1][2])
+console.log(mixedArr[2])
+console.log(mixedArr[3])
+
