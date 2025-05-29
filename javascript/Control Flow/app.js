@@ -208,9 +208,10 @@ console.log(stringArr);
 
 console.log(stringArr[0]);
 
-// nested Array
+// nested Array/ Two Dimension
 const nestArr = ["one", ["two", "three"], 1, true, false];
 console.log(nestArr);
 console.log(nestArr[1][1]);
 
-
+const myLetter = ['h','e','l','l','o']
+console.log(myLetter)
