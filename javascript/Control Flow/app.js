@@ -175,3 +175,4 @@ console.log(x || y);
 console.log(y || y);
 console.log(z > 2 || z < 2);
 // 3. --> logical NOT (!)
+console.log(!x)
