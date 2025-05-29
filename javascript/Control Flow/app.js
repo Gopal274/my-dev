@@ -175,11 +175,11 @@ console.log(x || y);
 console.log(y || y);
 console.log(z > 2 || z < 2);
 // 3. --> logical NOT (!)
-console.log(!x)
+console.log(!x);
 
-let password = "hacker-arena"
-if (password.length >= 8 && password.includes("arena")){
-  console.log("valid password")
+let passwords = "hacker-arena";
+if (passwords.length >= 8 && passwords.includes("arena")) {
+    console.log("valid password");
 } else {
-  condole.log("Invalid Password")
+    condole.log("Invalid Password");
 }
