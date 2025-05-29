@@ -161,3 +161,9 @@ do {
     console.log("hacker-arena", m);
     m++;
 } while (m <= 400);
+
+// 1. --> logical AND (&&)
+
+// 2. --> logical OR (||)
+// 3. --> logical NOT (!)
+
