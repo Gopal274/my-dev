@@ -155,10 +155,10 @@ do {
 //print "your Name " 400 times to the console using do-while-loop.
 //Iteration should start from 20.
 
-let j = 20 
+let m = 20 
 
 do {
-  console.log("hacker-arena", j)
-  j++;
-}while(j<=400)
+  console.log("hacker-arena", m)
+  m++;
+}while(m<=400)
 
