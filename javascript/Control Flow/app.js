@@ -181,5 +181,5 @@ let passwords = "hacker-arena";
 if (passwords.length >= 8 && passwords.includes("arena")) {
     console.log("valid password");
 } else {
-    condole.log("Invalid Password");
+    console.log("Invalid Password");
 }
