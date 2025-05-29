@@ -10,7 +10,7 @@ if (a > b) {
 }
 
 let time = 5;
-let greatings;
+let greetings;
 
 if (time < 10) {
     greetings = "Good Morning";
@@ -240,6 +240,6 @@ const fruits = [
   "strawberries",
   "pineapple",
   "grapefruit",
-  ]
+  ];
 
 
