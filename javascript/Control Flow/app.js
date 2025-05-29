@@ -168,7 +168,7 @@ const y = false;
 const z = 4;
 
 console.log(x && y);
-console.log(c>2 && c<2)
+console.log(z>2 && z<2)
 // 2. --> logical OR (||)
 // 3. --> logical NOT (!)
 
