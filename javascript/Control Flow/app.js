@@ -176,3 +176,10 @@ console.log(y || y);
 console.log(z > 2 || z < 2);
 // 3. --> logical NOT (!)
 console.log(!x)
+
+let password = "hacker-arena"
+if (password.length >= 8 && password.includes("arena")){
+  console.log("valid password")
+} else {
+  condole.log("Invalid Password")
+}
