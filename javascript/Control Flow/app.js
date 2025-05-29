@@ -94,7 +94,6 @@ switch (day) {
 //4. if case is "Apple " print "Hoe you likr them apples?"
 //5. default "I have never heard of that fruit"
 
-
 let fruit = "banana";
 
 switch (fruit) {
@@ -109,7 +108,11 @@ switch (fruit) {
         break;
     default:
         console.log("I have never heard of that fruit");
+}
 
+// for loop -->
 
+for (let i = 0; i <= 5 ; i++ ){
+  console.log(hello world)
 }
 
