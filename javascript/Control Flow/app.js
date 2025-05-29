@@ -242,4 +242,6 @@ const fruits = [
   "grapefruit",
   ];
 
-
+console.log(fruits.length)
+fruits.push("banana")
+console.log(fruits.length)
