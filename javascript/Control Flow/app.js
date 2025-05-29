@@ -183,3 +183,12 @@ if (passwords.length >= 8 && passwords.includes("arena")) {
 } else {
     console.log("Invalid Password");
 }
+
+if (passwords.length >= 8 || passwords.includes("arena")) {
+    console.log("valid password");
+} else {
+    console.log("Invalid Password");
+}
+
+let isTrue = true
+console.log(!isTrue)
