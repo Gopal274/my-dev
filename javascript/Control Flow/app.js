@@ -200,10 +200,14 @@ console.log(!isTrue);
 let myList = [];
 console.log(myList);
 
-const numbersArray = [1, 2, 3, 4, 5,]
-console.log(numbersArray)
+const numbersArray = [1, 2, 3, 4, 5];
+console.log(numbersArray);
 
-const stringArr = [ "eat" , " sleep",  "code", " repeat"]
-console.log(stringArr)
+const stringArr = ["eat", " sleep", "code", " repeat"];
+console.log(stringArr);
 
-console.log(stringArr[0])
+console.log(stringArr[0]);
+
+// nested Array 
+const nestArr = ["one",["two" ,"three"],1 ,true , false ]
+console.log(nestArr)
