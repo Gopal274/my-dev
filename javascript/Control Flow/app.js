@@ -111,14 +111,14 @@ switch (fruit) {
 }
 
 // for loop -->
-
-for (let i = 1; i <= 2; i++) {
-    console.log("---outer loop---", i);
-    // nested loop
-    for (let j = 1; j <= 2; j++) {
-        console.log("---inner loop ---", j);
-    }
-}
+// 
+// for (let i = 1; i <= 2; i++) {
+//     console.log("---outer loop---", i);
+//     // nested loop
+//     for (let j = 1; j <= 2; j++) {
+//         console.log("---inner loop ---", j);
+//     }
+// }
 
 // print your name & numbet from 0 through 1000
 // for (let k = 0; k<=1000 ; k++){
@@ -126,41 +126,41 @@ for (let i = 1; i <= 2; i++) {
 // }
 
 // while loop -->
-let i = 1;
-
-while (i <= 5) {
-    console.log("hello world ", i);
-    i++;
-}
+// let i = 1;
+// 
+// while (i <= 5) {
+//     console.log("hello world ", i);
+//     i++;
+// }
 
 // Print "your name" 100 times to the console using while loop
 // Iteratoin will start from 10
 
-let j = 10;
-
-while (j <= 100) {
-    console.log("hacker-arena", j);
-    j++;
-}
+// let j = 10;
+// 
+// while (j <= 100) {
+//     console.log("hacker-arena", j);
+//     j++;
+// }
 
 // Do while loop -->
 
-let k = 1;
-
-do {
-    console.log("hello world", k);
-    k++;
-} while (k <= 5);
+// let k = 1;
+// 
+// do {
+//     console.log("hello world", k);
+//     k++;
+// } while (k <= 5);
 
 //print "your Name " 400 times to the console using do-while-loop.
 //Iteration should start from 20.
 
-let m = 20;
-
-do {
-    console.log("hacker-arena", m);
-    m++;
-} while (m <= 400);
+// let m = 20;
+// 
+// do {
+//     console.log("hacker-arena", m);
+//     m++;
+// } while (m <= 400);
 
 // 1. --> logical AND (&&)
 const x = true;
