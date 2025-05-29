@@ -121,6 +121,7 @@ for (let i = 1; i <= 2 ; i++ ){
 }
 
 // print your name & numbet from 0 through 1000
-for (let k = 0; k<=1000 ; k++){
-  console.log("hacker-arena",k)
-}
+// for (let k = 0; k<=1000 ; k++){
+//   console.log("hacker-arena",k)
+// }
+
