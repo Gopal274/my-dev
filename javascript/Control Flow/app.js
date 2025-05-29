@@ -234,14 +234,15 @@ console.log(mixedArr[2]);
 console.log(mixedArr[3]);
 
 const fruits = [
-  "apples",
-  "pomegranate",
-  "mango",
-  "strawberries",
-  "pineapple",
-  "grapefruit",
-  ];
+    "apples",
+    "pomegranate",
+    "mango",
+    "strawberries",
+    "pineapple",
+    "grapefruit"
+];
 
-console.log(fruits.length)
-fruits.push("banana")
-console.log(fruits.length)
+console.log(fruits.length);
+fruits.push("banana");
+console.log(fruits.length);
+
