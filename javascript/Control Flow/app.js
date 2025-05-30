@@ -369,7 +369,9 @@ sayHello("arena");
 // return function
 
 function add(m, n) {
+  
     return m + n;
 }
 
-add(10, 20)
+console.log(add(10, 20));
+
