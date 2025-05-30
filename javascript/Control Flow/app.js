@@ -441,12 +441,18 @@ function showCallFun(f) {
     f(val);
 }
 
-
 showCallFun(function f(val) {
-  console.log(val);
+    console.log(val);
 });
 
 //Scopes
 
-let textMessage = "hi"
+let textMessage = "hi"; // Global variable
 console.log(textMessage);
+
+function showMessage() {
+  let textMessage = "hello"
+  console.log((textMessage));
+}
+
+showMessage()
