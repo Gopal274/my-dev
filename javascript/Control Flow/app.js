@@ -451,7 +451,7 @@ let textMessage = "hi"; // Global variable
 console.log(textMessage);
 
 function showMessage() {
-  let textMessage = "hello"
+  let textMessage = "hello" //local variable
   console.log((textMessage));
 }
 
