@@ -294,7 +294,10 @@ console.log(numbers.sort());
 //OBJECTS -->
 
 let person = {
-  firstName : "hacker",
-  lastName : "arena"
-}
-console.log(person)
+    firstName: "hacker",
+    lastName: "arena",
+    age: 17, 
+    location : ['planet', "earth", "india"],
+    isProgrammer: true,
+};
+console.log(person);
