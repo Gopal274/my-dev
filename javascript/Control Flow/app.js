@@ -326,3 +326,18 @@ console.log(person);
 
 delete person.fullName;
 console.log(person);
+
+
+//1. create object name (car)
+//2. add (type , model , color ) as properties
+//3. check the type of OBJECTS
+//4. update the type property to "Toyoto"
+//add new property wheels
+//6. log car to the console
+
+let car = {
+  type: "bmw",
+  model: "z1",
+  color: "gray",
+}
+console.log(typeof car)
