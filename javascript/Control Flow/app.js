@@ -518,3 +518,14 @@ let person5={
     "haveIdenticard":true
   }
 }
+
+
+// JSON.stringify()
+
+console.log(person5)
+console.log(JSON.stringify(person5))
+//or 
+const jsonString = JSON.stringify(person5)
+console.log(jsonString);
+//JSON.parse
+console.log(JSON.parse())
