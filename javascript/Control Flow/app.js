@@ -274,3 +274,6 @@ const moreFruits = [
     "lychee",
     "coconut"
 ];
+const totalFruits = fruits.concat(moreFruits)
+// add two Arrays
+console.log(totalFruits)
