@@ -286,4 +286,5 @@ console.log(pl.includes("dart"));
 console.log(pl.join("-"));
 console.log(pl.reverse());
 
-console.log(pl.slice(0,2))
+console.log(pl.slice(0, 2));
+console.log(numbers)
