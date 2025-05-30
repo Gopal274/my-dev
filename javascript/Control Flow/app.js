@@ -491,7 +491,7 @@ let person2 = {
     name: "gopal",
     age: 19,
     grt1: function grt() {
-        return `hello i am ${person.name},and i am ${person.age} year old`;
+        return `hello i am ${person2.name},and i am ${person2.age} year old`;
     }
 };
 console.log(person2.grt1());
