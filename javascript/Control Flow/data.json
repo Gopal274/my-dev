@@ -4,5 +4,7 @@
   "email":"js@gmail.com",
   "adress":"mp india",
   "isSubscribed":true,
-  "hobbies":["sports", "reading"  , "coding"]
+  "hobbies":["sports",
+    "reading",
+    "coding"]
 }
