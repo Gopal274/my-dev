@@ -405,7 +405,7 @@ console.log(U);
 function sayHi(username) {
     console.log(`hello ${username}`);
 }
-sayHi(hackerarena);
+sayHi("hacker-arena");
 // Function Expression
 const graating = function (user) {
     console.log(`hello ${user}`);
