@@ -243,9 +243,14 @@ const fruits = [
 ];
 
 console.log(fruits.length);
+
 fruits.push("banana");
 //add an item at the end of array
 console.log(fruits.length);
-fruits.pop()
+
+fruits.pop();
 //remove an item at the end of array
-console.log(fruits)
+console.log(fruits);
+
+fruits.shift()
+// remove an item at the starting of an array
