@@ -298,7 +298,8 @@ let person = {
     lastName: "arena",
     age: 17,
     location: ["planet", "earth", "india"],
-    isProgrammer: true
+    isProgrammer: true,
+    10 : "ten",
 };
 console.log(person);
 
