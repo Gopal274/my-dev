@@ -374,5 +374,11 @@ function add(m, n) {
 
 // console.log(add(10, 20));
 
-const res = add(10, 30)
+const res = add(10, 30);
+const res1 = add(100, 3);
+const res2 = add(1000, 301);
+const res3 = add(100, 300);
 console.log(res);
+console.log(res1);
+console.log(res2);
+console.log(res3);
