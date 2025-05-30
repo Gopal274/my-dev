@@ -254,4 +254,9 @@ console.log(fruits);
 
 fruits.shift();
 // remove an item at the starting of an array
+console.log(fruits);
+
+fruits.unshift("orange")
+// adds the item atvthe bigining of an array
 console.log(fruits)
+
