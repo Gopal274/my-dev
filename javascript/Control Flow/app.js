@@ -290,3 +290,11 @@ console.log(pl.slice(0, 2));
 
 console.log(numbers);
 console.log(numbers.sort());
+
+//OBJECTS -->
+
+let person = {
+  firstName : "hacker",
+  lastName : "arena"
+}
+console.log(person)
