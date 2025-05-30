@@ -387,10 +387,16 @@ console.log(res3);
 //2. This function have two parameters
 //3. Any number we pass as argument it will multiply that number.
 //4. As argument pass your favorite number.
- //5. log the value.
- 
- function myFunction(A, B) {
-   console.log(A*B);
- }
+//5. log the value.
 
-myFunction(10, 20)
+function myFunction(A, B) {
+    console.log(A * B);
+}
+
+myFunction(10, 20);
+
+function myfunction(p1 , p2 ) {
+  return p1*p2
+}
+let U = myfunction(1, 100)
+console.log(U)
