@@ -413,9 +413,19 @@ const graating = function (user) {
 graating("yogesh");
 
 function showCallFunc(fn) {
-  const value = 10 
-  fn(value)
+    const value = 10;
+    fn(value);
 }
 showCallFunc(function fn(value) {
-  console.log(value);
-})
+    console.log(value);
+});
+
+function gret(name, cb) {
+  console.log(`hello ${name}`);
+  cb()
+}
+
+function cb() {
+  console.log(`i am callback function`);
+}
+gret("john" ,cb)
