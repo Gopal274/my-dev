@@ -347,3 +347,13 @@ car.wheel = "black";
 console.log(car);
 
 
+// Function
+
+function great () {
+  console.log("hello from a function")
+}
+
+// run /excute function
+
+great()
+
