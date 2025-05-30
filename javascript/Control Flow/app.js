@@ -463,18 +463,18 @@ for (let i = 0; i < 5; i++) {
 
 // method
 
-// function grt() {
-//     return `my name is ${person1.name} & i am ${person1.age} years old`;
-// }
-//
-// const person1 = {
-//     name: "john",
-//     age: 30,
-//     grt
-// };
-//
-// console.log(person1.grt());
-//
+ function grt2() {
+    return `my name is ${person3.name} & i am ${person3.age} years old`;
+ }
+
+ const person3 = {
+     name: "john",
+     age: 30,
+     grt2
+ };
+
+ console.log(person3.grt2());
+
 //
 
 const person1 = {
@@ -488,7 +488,7 @@ const msg = person1.grt();
 console.log(msg);
 
 let person2 = {
-  name: "gopal",
+    name: "gopal",
     age: 19,
     grt1: function grt() {
         return `hello i am ${person.name},and i am ${person.age} year old`;
