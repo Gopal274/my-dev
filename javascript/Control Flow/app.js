@@ -495,3 +495,13 @@ let person2 = {
     }
 };
 console.log(person2.grt1());
+
+
+
+// //JSON
+// {
+//   // 'name' --> error we cant use single quotes
+//   "name"
+// }
+// 
+
