@@ -531,3 +531,7 @@ console.log(parseObject);
 console.log(JSON.parse(jsonString));
 
 
+
+const currentDate = new Date()
+console.log(currentDate);
+
