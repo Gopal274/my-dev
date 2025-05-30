@@ -347,7 +347,7 @@ car.wheel = "black";
 console.log(car);
 
 // Function
-
+// function declaration
 function great() {
     console.log("hello from a function");
 }
@@ -357,5 +357,3 @@ function great() {
 great();
 great();
 great();
-
-
