@@ -345,4 +345,3 @@ console.log((car.type = "Toyato"));
 
 car.wheel = "black";
 console.log(car);
-
