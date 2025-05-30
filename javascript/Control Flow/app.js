@@ -565,6 +565,7 @@ console.log(date);
 
 // setInterval
 
-setInterval(() => console.log(`This function  will be executed every 2 seconds`),
-2000
+setInterval(
+    () => console.log(`This function  will be executed every 2 seconds`),
+    2000
 );
