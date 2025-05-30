@@ -451,8 +451,12 @@ let textMessage = "hi"; // Global variable
 console.log(textMessage);
 
 function showMessage() {
-  let textMessage = "hello" //local variable
-  console.log((textMessage));
+    let textMessage = "hello"; //local variable
+    console.log(textMessage);
 }
 
-showMessage()
+showMessage();
+
+for (let i = 0; i < 5; i++) {
+  console.log(i);
+}
