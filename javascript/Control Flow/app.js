@@ -299,7 +299,7 @@ let person = {
     age: 17,
     location: ["planet", "earth", "india"],
     isProgrammer: true,
-    10 : "ten",
+    10: "ten"
 };
 console.log(person);
 
@@ -314,7 +314,6 @@ console.log(person.lastName);
 console.log(person.age);
 console.log(person.location);
 console.log(person.isProgrammer);
-
 
 console.log(person["firstName"]);
 console.log(person["location"]);
