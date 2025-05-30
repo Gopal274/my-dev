@@ -2,9 +2,14 @@
   "name": "hacker",
   "age": 20,
   "email":"js@gmail.com",
-  "adress":"mp india",
+  "isSubscribed":true,
   "hobbies":["sports",
     "reading",
     "coding"],
-  "isSubscribed":true
+  "adress":{
+    "city": "New York",
+    "state":"mp",
+    "nation":"india",
+    "haveIdenticard":true
+  }
 }
