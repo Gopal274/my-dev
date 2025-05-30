@@ -544,11 +544,10 @@ const date = new Date();
 
 const year = date.getFullYear();
 const month = date.getMonth();
-const day1 = date.getDay()
+const day1 = date.getDay();
 const hours = date.getHours();
 const minutes = date.getMinutes();
 
-
-
 console.log(`Month:${month}`);
 console.log(`Year:${year}`);
+console.log(`Day:${day}`);
