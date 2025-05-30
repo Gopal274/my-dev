@@ -547,5 +547,6 @@ const year = date.getFullYear()
 const month = date.getMonth()
 
 
+console.log(`Month:${month}`);
+console.log(`Year:${year}`);
 
-console.log();
