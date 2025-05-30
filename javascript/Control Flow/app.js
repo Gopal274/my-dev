@@ -429,3 +429,20 @@ function cb() {
     console.log(`i am callback function`);
 }
 gret("john", cb);
+
+
+//1. Create a function name (showCallFun)
+//2. pass "f" as parameter
+//3. inside that functio , create variable which holds value of 1p 
+//4. pass that value to calk function
+//5. now create callback function & print that value which you pass as parameter to the callback functi
+
+function showCallFun(fn) {
+  let val = 10 
+  fn(10)
+}
+
+function fn() {
+  console.log("hi");
+}
+showCallFun(fn)
