@@ -464,7 +464,7 @@ for (let i = 0; i < 5; i++) {
 // method
 
 function grt() {
-    return `my name is ${person1.name} & i am ${person.age} years old`;
+    return `my name is ${person1.name} & i am ${person1.age} years old`;
 }
 
 const person1 = {
