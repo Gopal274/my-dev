@@ -302,10 +302,16 @@ let person = {
 };
 console.log(person);
 
-const arr = []
-console.log(typeof arr)
-console.log(typeof person)
+const arr = [];
+console.log(typeof arr);
+console.log(typeof person);
 
 // Accessing Items from OBJECTS -->
 
-console.log(person.age)
+console.log(person.age);
+console.log(person.lastName);
+console.log(person.firstName);
+console.log(person.isProgrammer);
+console.log(person.location);
+
+
