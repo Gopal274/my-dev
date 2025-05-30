@@ -308,10 +308,8 @@ console.log(typeof person);
 
 // Accessing Items from OBJECTS -->
 
-console.log(person.age);
-console.log(person.lastName);
 console.log(person.firstName);
-console.log(person.isProgrammer);
+console.log(person.lastName);
+console.log(person.age);
 console.log(person.location);
-
-
+console.log(person.isProgrammer);
