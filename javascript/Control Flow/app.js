@@ -296,8 +296,12 @@ console.log(numbers.sort());
 let person = {
     firstName: "hacker",
     lastName: "arena",
-    age: 17, 
-    location : ['planet', "earth", "india"],
-    isProgrammer: true,
+    age: 17,
+    location: ["planet", "earth", "india"],
+    isProgrammer: true
 };
 console.log(person);
+
+const arr = []
+console.log(typeof arr)
+console.log(typeof person)
