@@ -316,3 +316,4 @@ console.log(person.isProgrammer);
 
 
 console.log(person["firstName"]);
+console.log(person["location"]);
