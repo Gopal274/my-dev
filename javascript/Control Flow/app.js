@@ -252,5 +252,6 @@ fruits.pop();
 //remove an item at the end of array
 console.log(fruits);
 
-fruits.shift()
+fruits.shift();
 // remove an item at the starting of an array
+console.log(fruits)
