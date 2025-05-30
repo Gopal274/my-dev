@@ -430,19 +430,18 @@ function cb() {
 }
 gret("john", cb);
 
-
 //1. Create a function name (showCallFun)
 //2. pass "f" as parameter
-//3. inside that functio , create variable which holds value of 1p 
+//3. inside that functio , create variable which holds value of 1p
 //4. pass that value to calk function
 //5. now create callback function & print that value which you pass as parameter to the callback functi
 
-function showCallFun(fn) {
-  let val = 10 
-  fn(10)
+function showCallFun(f) {
+    let val = 10;
+    f(val);
 }
 
-function fn() {
-  console.log("hi");
-}
-showCallFun(fn)
+
+showCallFun(function f(val) {
+  console.log(val);
+});
