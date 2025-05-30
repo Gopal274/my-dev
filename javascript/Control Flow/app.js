@@ -372,5 +372,4 @@ function add(m, n) {
     return m + n;
 }
 
-
-
+add(10, 20)
