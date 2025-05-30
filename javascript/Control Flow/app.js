@@ -244,5 +244,8 @@ const fruits = [
 
 console.log(fruits.length);
 fruits.push("banana");
+//add an item at the end of array
 console.log(fruits.length);
-
+fruits.pop()
+//remove an item at the end of array
+console.log(fruits)
