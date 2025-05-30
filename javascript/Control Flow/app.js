@@ -305,3 +305,7 @@ console.log(person);
 const arr = []
 console.log(typeof arr)
 console.log(typeof person)
+
+// Accessing Items from OBJECTS -->
+
+console.log(person.age)
