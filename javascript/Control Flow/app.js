@@ -421,11 +421,11 @@ showCallFunc(function fn(value) {
 });
 
 function gret(name, cb) {
-  console.log(`hello ${name}`);
-  cb()
+    console.log(`hello ${name}`);
+    cb();
 }
 
 function cb() {
-  console.log(`i am callback function`);
+    console.log(`i am callback function`);
 }
-gret("john" ,cb)
+gret("john", cb);
