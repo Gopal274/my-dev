@@ -323,3 +323,6 @@ console.log(person["10"]);
 
 person.fullName = "hacker-arena";
 console.log(person);
+
+delete person.fullName;
+console.log(person);
