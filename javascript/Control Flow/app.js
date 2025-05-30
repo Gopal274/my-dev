@@ -550,4 +550,6 @@ const minutes = date.getMinutes();
 
 console.log(`Month:${month}`);
 console.log(`Year:${year}`);
-console.log(`Day:${day}`);
+console.log(`Day:${day1}`);
+console.log(`Hours:${hours}`);
+
