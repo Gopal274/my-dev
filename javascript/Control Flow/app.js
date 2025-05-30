@@ -403,11 +403,11 @@ console.log(U);
 
 // Function declaration
 function sayHi(username) {
-  console.log(`hello ${username}`);
+    console.log(`hello ${username}`);
 }
-sayHi(hacker-arena)
+sayHi(hackerarena);
 // Function Expression
 const graating = function (user) {
-  console.log(`hello ${user}`);
-}
-graating("yogesh")
+    console.log(`hello ${user}`);
+};
+graating("yogesh");
