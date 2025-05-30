@@ -446,3 +446,7 @@ showCallFun(function f(val) {
   console.log(val);
 });
 
+//Scopes
+
+let textMessage = "hi"
+console.log(textMessage);
