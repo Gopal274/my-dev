@@ -530,8 +530,5 @@ const parseObject = JSON.parse(jsonString);
 console.log(parseObject);
 console.log(JSON.parse(jsonString));
 
-
-
-const currentDate = new Date()
+const currentDate = new Date();
 console.log(currentDate);
-
