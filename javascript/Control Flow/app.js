@@ -349,7 +349,7 @@ console.log(car);
 // Function
 // function declaration
 function great() {
-    console.log("/ from a function");
+    console.log("hello from a function");
 }
 
 // run /excute function
