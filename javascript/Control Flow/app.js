@@ -547,9 +547,13 @@ const month = date.getMonth();
 const day1 = date.getDay();
 const hours = date.getHours();
 const minutes = date.getMinutes();
+const milliseconds = date.getMilliseconds();
+
 
 console.log(`Month:${month}`);
 console.log(`Year:${year}`);
 console.log(`Day:${day1}`);
 console.log(`Hours:${hours}`);
+console.log(`Minutes:${minutes}`);
+console.log(`Milliseconds:${milliseconds}`);
 
