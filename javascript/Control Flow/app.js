@@ -549,7 +549,6 @@ const hours = date.getHours();
 const minutes = date.getMinutes();
 const milliseconds = date.getMilliseconds();
 
-
 console.log(`Month:${month}`);
 console.log(`Year:${year}`);
 console.log(`Day:${day1}`);
@@ -561,5 +560,11 @@ console.log(date.toDateString());
 console.log(date.toISOString());
 console.log(date.toLocaleString());
 
-date.setDate(date.getDate() + 1)
+date.setDate(date.getDate() + 1);
 console.log(date);
+
+// setInterval
+
+setInterval(() => console.log(`This function  will be executed every 2 seconds`),
+2000
+);
