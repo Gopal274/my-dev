@@ -395,8 +395,19 @@ function myFunction(A, B) {
 
 myFunction(10, 20);
 
-function myfunction(p1 , p2 ) {
-  return p1*p2
+function myfunction(p1, p2) {
+    return p1 * p2;
 }
-let U = myfunction(1, 100)
-console.log(U)
+let U = myfunction(1, 100);
+console.log(U);
+
+// Function declaration
+function sayHi(username) {
+  console.log(`hello ${username}`);
+}
+sayHi(hacker-arena)
+// Function Expression
+const graating = function (user) {
+  console.log(`hello ${user}`);
+}
+graating("yogesh")
