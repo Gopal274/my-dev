@@ -411,3 +411,11 @@ const graating = function (user) {
     console.log(`hello ${user}`);
 };
 graating("yogesh");
+
+function showCallFunc(fn) {
+  const value = 10 
+  fn(value)
+}
+showCallFunc(function fn(value) {
+  console.log(value);
+})
