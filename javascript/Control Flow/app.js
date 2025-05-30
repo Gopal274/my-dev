@@ -461,15 +461,14 @@ for (let i = 0; i < 5; i++) {
     console.log(i);
 }
 
-
 // method
 
 function grt() {
-  return `my name is ${person.name} & i am ${person.age} years old`
+    return `my name is ${person.name} & i am ${person.age} years old`;
 }
 
 const person = {
-  name:"john",
-  age: 30,
-  grt,
+    name: "john",
+    age: 30,
+    grt
 };
