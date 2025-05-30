@@ -256,7 +256,21 @@ fruits.shift();
 // remove an item at the starting of an array
 console.log(fruits);
 
-fruits.unshift("orange")
+fruits.unshift("orange");
 // adds the item atvthe bigining of an array
-console.log(fruits)
+console.log(fruits);
 
+const moreFruits = [
+    "watermelon",
+    "kiwi",
+    "papaya",
+    "blueberries",
+    "blackberries",
+    "peach",
+    "plum",
+    "cherry",
+    "guava",
+    "dragon fruit",
+    "lychee",
+    "coconut"
+];
