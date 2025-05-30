@@ -445,3 +445,4 @@ function showCallFun(f) {
 showCallFun(function f(val) {
   console.log(val);
 });
+
