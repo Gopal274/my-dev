@@ -319,4 +319,4 @@ console.log(person["firstName"]);
 console.log(person["location"]);
 
 // console.log(person.10)  --> Error
-console.log(person['10'])  
+console.log(person["10"]);
