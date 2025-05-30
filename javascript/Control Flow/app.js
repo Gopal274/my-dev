@@ -357,3 +357,13 @@ function great() {
 great();
 great();
 great();
+
+
+
+function sayHello(name){
+   console.log(`Hello ${name}`)
+   // console.log("hello" + "" + name)
+  
+}
+
+sayHello()
