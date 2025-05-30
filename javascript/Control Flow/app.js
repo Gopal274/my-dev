@@ -464,13 +464,13 @@ for (let i = 0; i < 5; i++) {
 // method
 
 function grt() {
-    return `my name is ${person.name} & i am ${person.age} years old`;
+    return `my name is ${person1.name} & i am ${person.age} years old`;
 }
 
-const person = {
+const person1 = {
     name: "john",
     age: 30,
     grt
 };
 
-console.log(person.grt());
+console.log(person1.grt());
