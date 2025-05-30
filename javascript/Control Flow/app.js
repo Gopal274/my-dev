@@ -557,3 +557,9 @@ console.log(`Hours:${hours}`);
 console.log(`Minutes:${minutes}`);
 console.log(`Milliseconds:${milliseconds}`);
 
+console.log(date.toDateString());
+console.log(date.toISOString());
+console.log(date.toLocaleString());
+
+date.setDate(date.getDate() + 1)
+console.log(date);
