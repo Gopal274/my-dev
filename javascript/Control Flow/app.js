@@ -463,17 +463,17 @@ for (let i = 0; i < 5; i++) {
 
 // method
 
- function grt2() {
+function grt2() {
     return `my name is ${person3.name} & i am ${person3.age} years old`;
- }
+}
 
- const person3 = {
-     name: "john",
-     age: 30,
-     grt2
- };
+const person3 = {
+    name: "john",
+    age: 30,
+    grt2
+};
 
- console.log(person3.grt2());
+console.log(person3.grt2());
 
 //
 
@@ -496,12 +496,25 @@ let person2 = {
 };
 console.log(person2.grt1());
 
-
-
 // //JSON
 // {
 //   // 'name' --> error we cant use single quotes
 //   "name"
 // }
-// 
+//
 
+let person5={
+  "name": "hacker",
+  "age": 20,
+  "email":"js@gmail.com",
+  "isSubscribed":true,
+  "hobbies":["sports",
+    "reading",
+    "coding"],
+  "adress": {
+    "city": "New York",
+    "state":"mp",
+    "nation":"india",
+    "haveIdenticard":true
+  }
+}
