@@ -503,29 +503,29 @@ console.log(person2.grt1());
 // }
 //
 
-let person5={
-  "name": "hacker",
-  "age": 20,
-  "email":"js@gmail.com",
-  "isSubscribed":true,
-  "hobbies":["sports",
-    "reading",
-    "coding"],
-  "adress": {
-    "city": "New York",
-    "state":"mp",
-    "nation":"india",
-    "haveIdenticard":true
-  }
-}
-
+let person5 = {
+    name: "hacker",
+    age: 20,
+    email: "js@gmail.com",
+    isSubscribed: true,
+    hobbies: ["sports", "reading", "coding"],
+    adress: {
+        city: "New York",
+        state: "mp",
+        nation: "india",
+        haveIdenticard: true
+    }
+};
 
 // JSON.stringify()
 
-console.log(person5)
-console.log(JSON.stringify(person5))
-//or 
-const jsonString = JSON.stringify(person5)
+console.log(person5);
+console.log(JSON.stringify(person5));
+//or
+const jsonString = JSON.stringify(person5);
 console.log(jsonString);
 //JSON.parse
-console.log(JSON.parse())
+
+const parseObject = JSON.parse(jsonString);
+console.log(parseObject);
+console.log(JSON.parse(jsonString));
