@@ -341,7 +341,8 @@ let car = {
 };
 console.log(typeof car);
 console.log(car.type);
-console.log(car.type = "Toyato");
+console.log((car.type = "Toyato"));
 
 car.wheel = "black";
 console.log(car);
+
