@@ -532,21 +532,18 @@ console.log(JSON.parse(jsonString));
 
 // const currentDate = new Date();
 // console.log(currentDate);
-// 
+//
 
 //year, month, day, hours, minutes, seconds, milliseconds
 
-const currentDate = new Date(2025 , 5, 30, 12, 30, 0,  0);
-
+const currentDate = new Date(2025, 5, 30, 12, 30, 0, 0);
 
 console.log(currentDate);
 
-const date = new Date()
+const date = new Date();
 
-const year = date.getFullYear()
-const month = date.getMonth()
-
+const year = date.getFullYear();
+const month = date.getMonth();
 
 console.log(`Month:${month}`);
 console.log(`Year:${year}`);
-
