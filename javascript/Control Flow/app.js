@@ -320,3 +320,6 @@ console.log(person["location"]);
 
 // console.log(person.10)  --> Error
 console.log(person["10"]);
+
+person.fullName = "hacker-arena"
+console.log(person)
