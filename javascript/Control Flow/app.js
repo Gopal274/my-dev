@@ -472,3 +472,5 @@ const person = {
     age: 30,
     grt
 };
+
+console.log(person.grt());
