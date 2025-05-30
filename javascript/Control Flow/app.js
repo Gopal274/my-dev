@@ -282,3 +282,4 @@ const pl = ["javascript", "golang", "python", "php"];
 const numbers = [3, 5, 2, 4, 1];
 
 console.log(pl.includes("golang"));
+console.log(pl.includes("dart"));
